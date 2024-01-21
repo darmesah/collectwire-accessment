@@ -1,4 +1,4 @@
-# collectwire-accessment
+# collectwire-assessment
 
 Express/TypeScript API to performs operations on matrices in a csv file. 
 API endpoints include /echo, /invert, /flatten, /sum, and /multiply.
@@ -9,7 +9,7 @@ Validation included are: Check that it is a matrix, check that every element in 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/darmesah/collectwire-accessment.git
+git clone https://github.com/darmesah/collectwire-assessment.git
 ```
 
 2. Navigate to the project directory:
