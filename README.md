@@ -46,3 +46,9 @@ Helper Functions Include
 - bufferData: Reusable function to read the CSV file
 - isValidNumsMatrix: Check if the read data is a matrix and all it elements are numbers
 - makeNumsArray: Convert the array of elements to an array of numbers (reusable for arithmetical functions)
+
+
+# Sample request
+```bash
+curl -F 'file=@src/matrix.csv' "localhost:8088/echo"
+```
